@@ -2,9 +2,8 @@ import { useState } from 'react';
 import { headerLogo } from '../assets/images';
 // import { hamburger } from '../assets/icons';
 
-import { HiMenuAlt4, HiX } from 'react-icons/hi';
 import { FaBars, FaTimes } from 'react-icons/fa';
-import { motion } from 'framer-motion';
+
 
 
 import { navLinks } from '../constants';
